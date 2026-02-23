@@ -17,7 +17,7 @@ export default function Contact() {
                         I'm always open to discussing high-impact projects, innovative ideas, and technical opportunities.
                     </p>
 
-                    <a href="mailto:jeyadeepakur@gmail.com" className="inline-flex items-center gap-2 px-8 py-4 rounded-full font-bold bg-white text-black hover:bg-gray-200 transition-colors shadow-lg mb-16">
+                    <a href="mailto:jeyadeepak2005@gmail.com" className="inline-flex items-center gap-2 px-8 py-4 rounded-full font-bold bg-white text-black hover:bg-gray-200 transition-colors shadow-lg mb-16">
                         <Mail className="w-5 h-5" /> Say Hello
                     </a>
 
